@@ -1,14 +1,11 @@
 ---
----
-
-@import ""; 
+--- 
+@import "{{ site.theme }}";
  
-      <header>
-        <h1></h1>
-        <p></p>
-      </header>
-
 header {
+  display: none;
+}
+h1  {
   display: none;
 }
 body {
