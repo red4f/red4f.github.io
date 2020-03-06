@@ -32,7 +32,7 @@ popun[9]="http://ga.lynsr.info";
 popun[10]="http://de.lynsr.info";
 popun[11]="http://faketaxi.s602.xrea.com/?random=1";    
 popun[12]="http://se.ivyrc.com";     
-popun[13]="http://dymusz.s1007.xrea.com/";
+popun[13]="http://dymusz.s1007.xrea.com/?r=1";
 popun[14]="http://ceivy.s1007.xrea.com/";
 popun[15]="http://hen38.s1007.xrea.com/";
 popun[16]="http://tnayr.s1007.xrea.com/";
